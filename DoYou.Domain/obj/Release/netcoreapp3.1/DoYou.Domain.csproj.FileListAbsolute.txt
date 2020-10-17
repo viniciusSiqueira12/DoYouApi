@@ -1,0 +1,12 @@
+C:\TCC\DoYou\DoYou.Domain\bin\Release\netcoreapp3.1\DoYou.Domain.deps.json
+C:\TCC\DoYou\DoYou.Domain\bin\Release\netcoreapp3.1\DoYou.Domain.runtimeconfig.json
+C:\TCC\DoYou\DoYou.Domain\bin\Release\netcoreapp3.1\DoYou.Domain.runtimeconfig.dev.json
+C:\TCC\DoYou\DoYou.Domain\bin\Release\netcoreapp3.1\DoYou.Domain.dll
+C:\TCC\DoYou\DoYou.Domain\bin\Release\netcoreapp3.1\DoYou.Domain.pdb
+C:\TCC\DoYou\DoYou.Domain\obj\Release\netcoreapp3.1\DoYou.Domain.csprojAssemblyReference.cache
+C:\TCC\DoYou\DoYou.Domain\obj\Release\netcoreapp3.1\DoYou.Domain.AssemblyInfoInputs.cache
+C:\TCC\DoYou\DoYou.Domain\obj\Release\netcoreapp3.1\DoYou.Domain.AssemblyInfo.cs
+C:\TCC\DoYou\DoYou.Domain\obj\Release\netcoreapp3.1\DoYou.Domain.csproj.CoreCompileInputs.cache
+C:\TCC\DoYou\DoYou.Domain\obj\Release\netcoreapp3.1\DoYou.Domain.dll
+C:\TCC\DoYou\DoYou.Domain\obj\Release\netcoreapp3.1\DoYou.Domain.pdb
+C:\TCC\DoYou\DoYou.Domain\obj\Release\netcoreapp3.1\DoYou.Domain.genruntimeconfig.cache

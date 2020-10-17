@@ -1,0 +1,15 @@
+C:\TCC\DoYou\DoYou.Infra\bin\Release\netcoreapp3.1\DoYou.Infra.deps.json
+C:\TCC\DoYou\DoYou.Infra\bin\Release\netcoreapp3.1\DoYou.Infra.runtimeconfig.json
+C:\TCC\DoYou\DoYou.Infra\bin\Release\netcoreapp3.1\DoYou.Infra.runtimeconfig.dev.json
+C:\TCC\DoYou\DoYou.Infra\bin\Release\netcoreapp3.1\DoYou.Infra.dll
+C:\TCC\DoYou\DoYou.Infra\bin\Release\netcoreapp3.1\DoYou.Infra.pdb
+C:\TCC\DoYou\DoYou.Infra\bin\Release\netcoreapp3.1\DoYou.Domain.dll
+C:\TCC\DoYou\DoYou.Infra\bin\Release\netcoreapp3.1\DoYou.Domain.pdb
+C:\TCC\DoYou\DoYou.Infra\obj\Release\netcoreapp3.1\DoYou.Infra.csprojAssemblyReference.cache
+C:\TCC\DoYou\DoYou.Infra\obj\Release\netcoreapp3.1\DoYou.Infra.AssemblyInfoInputs.cache
+C:\TCC\DoYou\DoYou.Infra\obj\Release\netcoreapp3.1\DoYou.Infra.AssemblyInfo.cs
+C:\TCC\DoYou\DoYou.Infra\obj\Release\netcoreapp3.1\DoYou.Infra.csproj.CoreCompileInputs.cache
+C:\TCC\DoYou\DoYou.Infra\obj\Release\netcoreapp3.1\DoYou.Infra.csproj.CopyComplete
+C:\TCC\DoYou\DoYou.Infra\obj\Release\netcoreapp3.1\DoYou.Infra.dll
+C:\TCC\DoYou\DoYou.Infra\obj\Release\netcoreapp3.1\DoYou.Infra.pdb
+C:\TCC\DoYou\DoYou.Infra\obj\Release\netcoreapp3.1\DoYou.Infra.genruntimeconfig.cache
